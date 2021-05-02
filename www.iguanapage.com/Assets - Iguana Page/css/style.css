@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Raleway', sans-serif;
+}
+/*HEADER*/
+.title{
+    width: 100%;
+    height: 50rem;
+    text-align: center;
+    background-color: #000000;
+    color: #FFFFFF;
+    font-size: 3.12rem;
+}
+.title img{
+    width: 100%;
+}
+/*MAIN CONTENT*/
+.main-content{
+    width: 100%;
+    height: 21.75rem;
+    display: inline-block;
+    margin: 0 auto;
+    background-color: #000000;
+    color: #FFFFFF;
+    vertical-align: middle;
+}
+.main-content img{
+    width: 25rem;
+    height: 15rem;
+    padding-top: 3.5rem;
+}
+.main-content-text{
+    display:inline-block;
+    width: 30rem;
+    height: 12rem;
+    margin-top: 4.75rem;
+    margin-left: 9.4rem;
+    margin-right: 7rem;
+    font-weight: 300;
+}
+/*SUB SECTION*/
+.features{
+    width: 100%;
+    height: 22rem;
+    background-color: #1E1A13;
+    color: #FFFFFF;
+}
+.features-title{
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 300;
+    padding-top: 5rem;
+    padding-bottom: 3rem;
+}
+.features-list{
+    text-align: center;
+    font-size: 1.5rem;
+}
+.features-list ul li{
+    display: inline-block;
+    margin: 0 7.5rem;
+}
+.icon{
+    font-size: 3.125rem;
+    margin-bottom: 0.625rem;
+}
+/*GALLERY*/
+.images{
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    height: 21.75rem;
+    background-color: #000000;
+}
+.images img{
+    width: 19.75rem;
+    height: 13rem;
+    margin-right: 0.625rem;
+    padding-top: 4.5rem;
+}
+/*FOOTER*/
+.footer-section{
+    width: 100%;
+    height: 4.6rem;
+    background-color: #1E1A13 ;
+    color: #FFFFFF;
+    font-size: 1.25rem;
+    font-weight: 300;
+    text-align: center;
+    padding-top: 2.56rem;
+}
+
+
+
